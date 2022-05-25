@@ -1,0 +1,15 @@
+{
+  "name": "banco",
+  "version": "1.0.0",
+  "description": "sistema bancario",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gabriel Apellaniz da Silva",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "inquirer": "^8.2.1"
+  }
+}
